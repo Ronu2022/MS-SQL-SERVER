@@ -7,56 +7,17 @@ Welcome to this guide on Microsoft SQL Server (MS SQL Server), a powerful relati
 
 Table of Contents
 
-
-
-
-
 What is MS SQL Server?
-
-
-
 Key Concepts
-
-
-
-
-
 Databases
-
-
-
 Tables
-
-
-
 Queries
-
-
-
 Joins
-
-
-
 Stored Procedures
-
-
-
 Triggers
-
-
-
 Basic Examples
-
-
-
 Getting Started
-
-
-
 Best Practices
-
-
-
 Resources
 
 
@@ -360,6 +321,8 @@ Schedule backups to prevent data loss.
 Write Clear T-SQL
 
 
+
+![image](https://github.com/user-attachments/assets/13b49dc4-eafd-4596-af70-e4e127dd4c90)
 
 Use comments and consistent formatting for maintainability.
 
